@@ -1,0 +1,9 @@
+npm install
+experss
+nodemon
+bscryt
+socket.io
+mongoose
+cors
+dotenv
+
